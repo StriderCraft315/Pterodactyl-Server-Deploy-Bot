@@ -1,0 +1,7 @@
+discord
+requests
+sqlite3
+json
+asyncio
+aiohttp
+secrets
