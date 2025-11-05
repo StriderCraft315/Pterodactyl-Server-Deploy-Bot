@@ -1,0 +1,19 @@
+{
+  "bot_token": "YOUR_DISCORD_BOT_TOKEN_HERE",
+  "prefix": ".",
+  "admins": [
+    "YOUR_DISCORD_USER_ID_HERE"
+  ],
+  "panels": {
+    "main": {
+      "url": "https://your-panel.domain.com",
+      "api_key": "YOUR_PTERODACTYL_CLIENT_API_KEY_HERE",
+      "application_api_key": "YOUR_PTERODACTYL_APPLICATION_API_KEY_HERE"
+    },
+    "backup": {
+      "url": "https://your-backup-panel.domain.com",
+      "api_key": "YOUR_BACKUP_CLIENT_API_KEY_HERE",
+      "application_api_key": "YOUR_BACKUP_APPLICATION_API_KEY_HERE"
+    }
+  }
+}
